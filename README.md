@@ -24,3 +24,6 @@
 6.Rating between 4.5 to 4.9, People have given Excellent Ratings</br>
 
 ![image](https://user-images.githubusercontent.com/38419795/192179323-6b06d4eb-296c-404b-a94d-22f8fc2b6c12.png)
+
+#Question : List down Countries and the Currency
+![image](https://user-images.githubusercontent.com/38419795/192261531-45b29d40-4786-4941-8e7f-2ee69f2a0da9.png)
