@@ -40,7 +40,7 @@ Maximum Number of '0' Ratings are from INDIA </br>
 **Observations** </br>
 Only INDIA and UAE has Online Deliveries </br>
 
-# Top 5 Cities with maximum Tranaactions Pie Chart </br>
+# Top 5 Cities with maximum Transactions Pie Chart </br>
 
 **Observations** </br>
   1. Maximum Transaction Happened in India </br>
@@ -48,4 +48,16 @@ Only INDIA and UAE has Online Deliveries </br>
   3. Gurgaon follows with 14% </br>
 
 ![image](https://user-images.githubusercontent.com/38419795/192389037-af87e2ae-e5b4-4b4e-a08b-91ee3e4012be.png)
+
+# Top 5 Cuisines and the count in Pie Chart </br>
+
+**Observations Related to Cuisines** </br>
+1. North India Cuisines were most ordered. Its 37.91% </br>
+2. North India Chinese were 2nd Most ordered. Its 20.70% </br>
+3. Fast Food followed at 3rd spot with 14.09% </br>
+4. Chinese at 4th spot with 13.77% </br>
+5. North Indian Mughlai at 5th spot with 13.53% </br>
+
+![image](https://user-images.githubusercontent.com/38419795/192393039-b996b6f9-37ba-4096-bf0e-b4dc69baf86d.png)
+
 
