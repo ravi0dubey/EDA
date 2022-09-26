@@ -40,7 +40,7 @@ Maximum Number of '0' Ratings are from INDIA </br>
 **Observations** </br>
 Only INDIA and UAE has Online Deliveries </br>
 
-# Top 5 Cities and the count in Pie Chart </br>
+# Top 5 Cities with maximum Tranaactions Pie Chart </br>
 
 **Observations** </br>
   1. Maximum Transaction Happened in India </br>
