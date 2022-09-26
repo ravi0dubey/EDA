@@ -40,4 +40,12 @@ Maximum Number of '0' Ratings are from INDIA </br>
 **Observations** </br>
 Only INDIA and UAE has Online Deliveries </br>
 
+# Top 5 Cities and the count in Pie Chart </br>
+
+**Observations** </br>
+  1. Maximum Transaction Happened in India </br>
+  2. Delhi has 68% of Transaction </br>
+  3. Gurgaon follows with 14% </br>
+
+![image](https://user-images.githubusercontent.com/38419795/192389037-af87e2ae-e5b4-4b4e-a08b-91ee3e4012be.png)
 
