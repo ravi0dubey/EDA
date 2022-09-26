@@ -32,3 +32,7 @@
 ![image](https://user-images.githubusercontent.com/38419795/192262040-8c22c1e8-2637-49f3-ba62-58ce6a8f8a0f.png)</br>
 **Observations** </br>
 Maximum Number of '0' Ratings are from INDIA </br>
+
+# Question Which Countries do have Online Deliveries </br>
+![image](https://user-images.githubusercontent.com/38419795/192263537-3ceb6901-3832-4dd8-b97f-fb2c1a26fb4d.png) </br>
+
