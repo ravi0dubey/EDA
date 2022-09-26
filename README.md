@@ -25,14 +25,19 @@
 
 ![image](https://user-images.githubusercontent.com/38419795/192179323-6b06d4eb-296c-404b-a94d-22f8fc2b6c12.png)</br>
 
-# Question : List down Countries and the Currency</br>
+# List down Countries and the Currency</br>
 ![image](https://user-images.githubusercontent.com/38419795/192261531-45b29d40-4786-4941-8e7f-2ee69f2a0da9.png)</br>
 
 # Find the list of countries and Count which has given 0 ratings
 ![image](https://user-images.githubusercontent.com/38419795/192262040-8c22c1e8-2637-49f3-ba62-58ce6a8f8a0f.png)</br>
+
 **Observations** </br>
 Maximum Number of '0' Ratings are from INDIA </br>
 
-# Question Which Countries do have Online Deliveries </br>
+# Countries which do have Online Deliveries </br>
 ![image](https://user-images.githubusercontent.com/38419795/192263537-3ceb6901-3832-4dd8-b97f-fb2c1a26fb4d.png) </br>
+
+**Observations** </br>
+Only INDIA and UAE has Online Deliveries </br>
+
 
