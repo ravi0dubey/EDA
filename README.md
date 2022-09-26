@@ -28,7 +28,7 @@
 # List down Countries and the Currency</br>
 ![image](https://user-images.githubusercontent.com/38419795/192261531-45b29d40-4786-4941-8e7f-2ee69f2a0da9.png)</br>
 
-# Find the list of countries and Count which has given 0 ratings
+# list of Countries and the Count where Customer have given 0 ratings
 ![image](https://user-images.githubusercontent.com/38419795/192262040-8c22c1e8-2637-49f3-ba62-58ce6a8f8a0f.png)</br>
 
 **Observations** </br>
