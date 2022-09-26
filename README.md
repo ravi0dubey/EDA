@@ -30,3 +30,5 @@
 
 # Find the list of countries and Count which has given 0 ratings
 ![image](https://user-images.githubusercontent.com/38419795/192262040-8c22c1e8-2637-49f3-ba62-58ce6a8f8a0f.png)
+**Observations** </br>
+Maximum Number of '0' Ratings are from INDIA </br>
